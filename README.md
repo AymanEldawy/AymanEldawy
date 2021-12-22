@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Front End Developer
 
 ## bio
-<kbd>Front End Developer</kbd> with over 2 years of experience, Create and design websites have pretty look with <code>high performance </code> fully responsive design<code> (mobile-first)</code>, I know i'm in beginning but still work to develop myself more and i really enjoy when do that
+Front End Developer with over 2 years of experience, Create and design websites have pretty look <code>(user interface)</code> with <code>high performance</code> fully responsive design<code>(mobile-first)</code>, I know i'm in beginning but still work to develop myself more and i really enjoy when do that
 
 ## Skills:
 ![skills](https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/skills.png)
