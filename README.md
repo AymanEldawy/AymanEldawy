@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 ![create and design websites](https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/banner.png)
 ## bio
 <kbd>Front End Developer</kbd> with over 2 years of experience, Create and design websites have pretty look with <code>high performance </code> fully responsive design<code> (mobile-first)</code>, I know i'm in beginning but still work to develop myself more and i really enjoy when do that
-[img src="" alt="" width="">](https://api.whatsapp.com/send/?phone=+201501685804&text&app_absent=0)
-[img src="" alt="" width="">](https://www.linkedin.com/in/aymaneldawy/)
-[img src="https://github.com/AymanEldawy/AymanEldawy/blob/main/phone-icon.png" alt="" width="">](tel:+2001021868543)
+![img src="" alt="" width="">](https://api.whatsapp.com/send/?phone=+201501685804&text&app_absent=0)
+![img src="" alt="" width="">](https://www.linkedin.com/in/aymaneldawy/)
+![img src="https://github.com/AymanEldawy/AymanEldawy/blob/main/phone-icon.png" alt="" width="">](tel:+2001021868543)
 
 ## Skills:
-[img src="" alt="" width="">]
+![img src="" alt="" width="">]
 ## works
-[img src="" alt="" width="">](https://pluvias.net/)
-[img src="" alt="" width="">](https://metagamevr.com/)
-[img src="" alt="" width="">](http://bedaya-stationery.com/)
-[img src="" alt="" width="">](https://aymaneldawy.github.io/mas-car/)
-[img src="https://github.com/AymanEldawy/AymanEldawy/blob/main/smartgroup.png" alt="" width="">](http://www.smartgroup-alex.com/)
+![img src="" alt="" width="">](https://pluvias.net/)
+![img src="" alt="" width="">](https://metagamevr.com/)
+![img src="" alt="" width="">](http://bedaya-stationery.com/)
+![img src="" alt="" width="">](https://aymaneldawy.github.io/mas-car/)
+![img src="https://github.com/AymanEldawy/AymanEldawy/blob/main/smartgroup.png" alt="" width="">](http://www.smartgroup-alex.com/)
 
 
 - 🌱 I’m currently learning React roadmap 
