@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AymanEldawy/AymanEldawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![create and design websites](https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/banner.png)
 
 ### Hi there 👋 I'm Ayman Eldawy
 #### Front End Developer
-![create and design websites](https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/banner.png)
+[<img align="right" src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/whats-icon.png" alt="" width="">](https://api.whatsapp.com/send/?phone=+201501685804&text&app_absent=0)
+[<img align="right" src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/linkedin-icon.png" alt="" width="">](https://www.linkedin.com/in/aymaneldawy/)
+[<img align="right" src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/phone-icon.png" alt="" width="">](tel:+2001021868543)
 ## bio
 <kbd>Front End Developer</kbd> with over 2 years of experience, Create and design websites have pretty look with <code>high performance </code> fully responsive design<code> (mobile-first)</code>, I know i'm in beginning but still work to develop myself more and i really enjoy when do that
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/whats-icon.png" alt="" width="">](https://api.whatsapp.com/send/?phone=+201501685804&text&app_absent=0)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/linkedin-icon.png" alt="" width="">](https://www.linkedin.com/in/aymaneldawy/)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/phone-icon.png" alt="" width="">](tel:+2001021868543)
 
 ## Skills:
 ![skills](https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/skills.png)
