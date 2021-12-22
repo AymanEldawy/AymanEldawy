@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 [<img align="right" src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/linkedin-icon.png" alt="" width="">](https://www.linkedin.com/in/aymaneldawy/)
 [<img align="right" src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/phone-icon.png" alt="" width="">](tel:+2001021868543)
 ### Front End Developer
-<br/>
+
 ## bio
 <kbd>Front End Developer</kbd> with over 2 years of experience, Create and design websites have pretty look with <code>high performance </code> fully responsive design<code> (mobile-first)</code>, I know i'm in beginning but still work to develop myself more and i really enjoy when do that
 
 ## Skills:
 ![skills](https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/skills.png)
 ## works
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/mas-car.png" alt="mas-car" width="300px">](https://aymaneldawy.github.io/mas-car/)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/pluvias.png" alt="pluvias" width="300px">](https://pluvias.net/)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/metagamevr.png" alt="metagamevr" width="300px">](https://metagamevr.com/)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/bedaya.png" alt="bedaya" width="300px">](http://bedaya-stationery.com/)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/smartgroup.png" alt="smartgroup" width="300px">](http://www.smartgroup-alex.com/)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/rm-word-full.png" alt="rm-word" width="300px">](https://aymaneldawy.github.io/RM-word/dist/)
+[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/mas-car.png" alt="mas-car" width="270px">](https://aymaneldawy.github.io/mas-car/)
+[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/pluvias.png" alt="pluvias" width="270px">](https://pluvias.net/)
+[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/metagamevr.png" alt="metagamevr" width="270px">](https://metagamevr.com/)
+[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/bedaya.png" alt="bedaya" width="270px">](http://bedaya-stationery.com/)
+[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/smartgroup.png" alt="smartgroup" width="270px">](http://www.smartgroup-alex.com/)
+[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/rm-word-full.png" alt="rm-word" width="270px">](https://aymaneldawy.github.io/RM-word/dist/)
 
 <!-- - 🌱 I’m currently learning React roadmap 
  -->
