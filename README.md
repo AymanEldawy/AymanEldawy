@@ -1,5 +1,4 @@
 ### Hi there 👋
-![<style> * { font-size:50px } </style>]
 
 <!--
 **AymanEldawy/AymanEldawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
