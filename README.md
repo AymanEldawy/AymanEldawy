@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Front End Developer
 
 ## bio
-Front End Developer with over 2 years of experience, Create and design websites have pretty look <code>(user interface)</code> with <code>high performance</code> fully responsive design<code>(mobile-first)</code>, I know i'm in beginning but still work to develop myself more and i really enjoy when do that
+Front End Developer with over 2 years of experience, Create and design websites have pretty look <code>(user interface)</code> with <code>high performance</code> fully responsive design<code>(mobile-first)</code>
 
 ## Skills:
 ![skills](https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/skills.png)
