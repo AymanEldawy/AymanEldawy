@@ -18,15 +18,14 @@ Here are some ideas to get you started:
 # Hi there 👋 I'm Ayman Eldawy
 [<img align="right" src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/whats-icon.png" alt="" width="">](https://api.whatsapp.com/send/?phone=+201060733623&text&app_absent=0)
 [<img align="right" src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/linkedin-icon.png" alt="" width="">](https://www.linkedin.com/in/aymaneldawy/)
-[<img align="right" src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/phone-icon.png" alt="+201501685804" width="">](tel:+201060733623)
 ### Front End Developer
 
-## bio
+## Bio
 Front End Developer with over 2 years of experience, Create and design websites have pretty look <code>(user interface)</code> with <code>high performance</code> fully responsive design<code>(mobile-first)</code>
 
-## Skills:
+## Skills
 ![skills](https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/skills.png)
-## works
+## Projects
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/mas-car.png" alt="mas-car" width="270px">](https://aymaneldawy.github.io/mas-car/)
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/video.png" alt="pluvias" width="270px">]([https://pluvias.net/](https://youtube-clone-1qag7ng07-aymaneldawy.vercel.app/))
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/fatimi.png" alt="metagamevr" width="270px">](https://aymaneldawy.github.io/calender-fatimi/index.html)
