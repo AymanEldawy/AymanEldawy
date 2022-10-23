@@ -31,8 +31,8 @@ Front End Developer with over 2 years of experience, Create and design websites 
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/bedaya.png" alt="bedaya" width="270px">](http://bedaya-stationery.com/)
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/smartgroup.png" alt="smartgroup" width="270px">](http://www.smartgroup-alex.com/)
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/rm-word-full.png" alt="rm-word" width="270px">](https://aymaneldawy.github.io/RM-word/dist/)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/pluvias.png" alt="pluvias" width="270px">](https://pluvias.net/)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/metagamevr.png" alt="metagamevr" width="270px">](https://metagamevr.com/)
+[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/video.png" alt="pluvias" width="270px">]([https://pluvias.net/](https://youtube-clone-1qag7ng07-aymaneldawy.vercel.app/))
+[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/fatimi.png" alt="metagamevr" width="270px">](https://aymaneldawy.github.io/calender-fatimi/index.html)
 
 <!-- - 🌱 I’m currently learning React roadmap 
  -->
