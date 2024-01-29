@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Front End Developer
 
 ## Bio
-Front End Developer with over 2 years of experience, Create and design websites have pretty look <code>(user interface)</code> with <code>high performance</code> fully responsive design<code>(mobile-first)</code>
+Front End Developer with over 2 years of experience, Creating and design websites that have a pretty look <code>(user interface)</code> with <code>high performance</code> fully responsive design<code>(mobile-first)</code>
 
 ## Skills
 ![skills](https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/skills.png)
@@ -29,7 +29,7 @@ Front End Developer with over 2 years of experience, Create and design websites 
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/world-cup.png" alt="world-cup-2022" width="270px">](https://almiqias.com/wc2022/predict)
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/mas-car.png" alt="mas-car" width="270px">](https://aymaneldawy.github.io/mas-car/)
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/video.png" alt="Youtube clone" width="270px">](https://youtube-clone-1qag7ng07-aymaneldawy.vercel.app/)
-[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/fatimi.png" alt="Fatimi" width="270px">](https://aymaneldawy.github.io/calender-fatimi/index.html)
+[<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/fatimi.png" alt="Fatimi" width="270px">](https://www.l888l.org/)
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/bedaya.png" alt="bedaya" width="270px">](http://bedaya-stationery.com/)
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/smartgroup.png" alt="smartgroup" width="270px">](http://www.smartgroup-alex.com/)
 [<img src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/rm-word-full.png" alt="rm-word" width="270px">](https://aymaneldawy.github.io/RM-word/dist/)
