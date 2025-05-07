@@ -16,10 +16,6 @@
 
 ---
 
-### Bio
-Front-End Developer with 3 years of experience building responsive web apps using React, TypeScript, and Next.js. I focus on clean UI/UX design and performance optimization. I’m passionate about scalable front-end architecture and thrive in remote agile teams. Open to global remote opportunities.
-
-
 ### 🛠️ Languages & Tools:
 <p align="left">
   <!-- Core Frontend -->
@@ -52,6 +48,7 @@ Front-End Developer with 3 years of experience building responsive web apps usin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanEldawy&theme=radical" alt="GitHub Streak" />
 </p>
 -->
+---
 
 ### Projects
 [<img src="https://github.com/AymanEldawy/AymanEldawy/blob/main/tesppas.png" alt="tesppas" width="270px">](https://www.tseppas.com/)
