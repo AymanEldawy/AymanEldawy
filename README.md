@@ -44,13 +44,14 @@ Front-End Developer with 3 years of experience building responsive web apps usin
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
 </p>
----
 
+<!--
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AymanEldawy&show_icons=true&theme=radical" alt="Ayman's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanEldawy&theme=radical" alt="GitHub Streak" />
 </p>
+-->
 
 ### Projects
 [<img src="https://github.com/AymanEldawy/AymanEldawy/blob/main/tesppas.png" alt="tesppas" width="270px">](https://www.tseppas.com/)
