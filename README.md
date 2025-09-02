@@ -2,11 +2,9 @@
 [<img align="right" src="https://raw.githubusercontent.com/AymanEldawy/AymanEldawy/main/linkedin-icon.png" alt="" width="">](https://www.linkedin.com/in/aymaneldawy/)
 
 <h1 align="center">Hi 👋, I'm Ayman Eldawy</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h2 align="center">A passionate Front-End Developer</h2>
 
-- 🔭 I’m currently working on **enterprise-level eCommerce platforms with Next.js + Supabase**
-
-- 🌱 I’m currently learning **Advanced Next.js Patterns, Testing with Playwright, and CI/CD automation**
+- 🌱 I’m currently learning **Advanced Next.js Patterns, Testing with Cypress, and CI/CD automation**
 
 - 💬 Ask me about **React, Next.js, Tailwind CSS, TypeScript, and performance optimization**
 
