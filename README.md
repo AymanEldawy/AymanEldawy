@@ -15,7 +15,6 @@ I build fast, responsive web applications from Figma designs and product require
 
 - [Bundle Builder React](https://github.com/AymanEldawy/bundle-builder-react) — A data-driven React and TypeScript configurator with reducer-based state, local persistence, and test coverage. [Live demo](https://bundle-builder-react.vercel.app)
 - [Parking Reservation System](https://github.com/AymanEldawy/parking-reservation-system-client) — A responsive operations dashboard with role-based workflows and real-time WebSocket updates.
-- [Neovox Dashboard](https://github.com/AymanEldawy/neovox-dashboard) — A TypeScript dashboard project.
 
 ### Links
 
